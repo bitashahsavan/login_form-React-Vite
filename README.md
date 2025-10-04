@@ -1,12 +1,18 @@
-<<<<<<< HEAD
-# login_form-React-Vite
-=======
-# React + Vite
+## Login-form  | Login form with React & vite
+- 🙋‍♀️Developed by Bita Shahsavan
+- 📧Contact with me : <a href="https://www.linkedin.com/in/bita-shahsavan-830471299/" rel="nofollow">LINKEDIN</a>
+- 📆Created : Aguest  2024
+- ✔Technologies : Html , Css , javascript , React , Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+#### Converting Figma designs to React code
 
-Currently, two official plugins are available:
+# 📸 Screenshot
+[![6.png](https://i.postimg.cc/cC4w1wjH/6.png)](https://postimg.cc/zb6V0bqZ)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
->>>>>>> 1abdec2 (upload files)
+# 🌟 Features
+1. validation forms
+2. Responsive for all breakpoints
+
+# 🛠️ Technologies Used
+. HTML | CSS | Javascript | React | vite
+   
